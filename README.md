@@ -2,7 +2,9 @@ Project developed with Diogo Valente, João Afonso Pereira, Maria Loureiro, and 
 
 Data-driven and case-study competition (3rd Edition), this time on **Sustainable Mobility in Matosinhos City**.
 
-Our winning solution answered to the question: _How to promote Matosinhos' transition to micromobility, towards decarbonization?_The proposed solution included 3 dimensions, focused both on **supply and demand**:
+Our winning solution answered to the question: **How to promote Matosinhos' transition to micromobility, towards decarbonization?**
+
+The proposed solution included 3 dimensions, focused both on **supply and demand**:
 
 * user encouragement
 * effective targeting of communication strategies
