@@ -13,3 +13,5 @@ The proposed solution included 3 dimensions, focused both on **supply and demand
 For that, predictive and prescriptive models were trained with **big data**, provided by CEiiA and Câmara Municipal de Matosinhos, social partners of the competition.
 
 The estimated **impact** of the proposed solution was an additional saving of 73 tons of emitted CO2 per year
+
+Project developed in November 2021
